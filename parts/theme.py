@@ -1,0 +1,26 @@
+# File: gui/parts/theme.py
+# Function: Color constants for GUI theme (GitHub Dark)
+
+class Theme:
+    BG = "#0d1117"
+    BG_SECONDARY = "#161b22"
+    BG_TERTIARY = "#21262d"
+    BG_HOVER = "#30363d"
+    TEXT = "#e6edf3"
+    TEXT_DIM = "#8b949e"
+    ACCENT_GREEN = "#3fb950"
+    ACCENT_GREEN_HOVER = "#2ea043"
+    ACCENT_RED = "#f85149"
+    ACCENT_RED_HOVER = "#da3633"
+    ACCENT_BLUE = "#58a6ff"
+    ACCENT_PURPLE = "#bc8cff"
+    ACCENT_YELLOW = "#d29922"
+    BORDER = "#30363d"
+    SUCCESS = "#3fb950"
+    ERROR = "#f85149"
+    WARNING = "#d29922"
+    INFO = "#58a6ff"
+    FOLDER = "#d29922"
+    FILE_LUAU = "#58a6ff"
+    FILE_JSON = "#bc8cff"
+    FILE_OTHER = "#8b949e"
